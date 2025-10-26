@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🇮🇳 BharatBazaar - Hyperlocal Commerce Platform
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -25,7 +25,7 @@
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 India has **12 million kirana stores** struggling to compete with large e-commerce platforms:
 - ₹50,000 crores leaving local communities annually
@@ -35,9 +35,9 @@ India has **12 million kirana stores** struggling to compete with large e-commer
 
 ---
 
-## ✨ Unique Features
+##  Unique Features
 
-### 1. 🏪 **Transparent Price Comparison**
+### 1.  **Transparent Price Comparison**
 Unlike traditional platforms, we show customers the **real cost difference**:
 - **Store Visit Price**: ₹190 (5% extra discount)
 - **Online Delivery**: ₹200 (convenience fee included)
@@ -45,7 +45,7 @@ Unlike traditional platforms, we show customers the **real cost difference**:
 
 **Impact**: Customers save ₹54 per transaction by visiting stores, keeping money in local communities.
 
-### 2. 🗺️ **Intelligent Route Navigation**
+### 2.  **Intelligent Route Navigation**
 - Real-time distance calculation using LatLong API
 - Multiple transport modes (walking, cycling, driving)
 - Estimated time for each route
@@ -53,7 +53,7 @@ Unlike traditional platforms, we show customers the **real cost difference**:
 
 **Impact**: Encourages local shopping, reduces carbon footprint by 2.8 km per order.
 
-### 3. 📍 **Hyperlocal Discovery**
+### 3.  **Hyperlocal Discovery**
 - Interactive map with 30+ neighborhood shops
 - Filter by radius (1-10 km)
 - Real-time inventory from actual stores
@@ -61,7 +61,7 @@ Unlike traditional platforms, we show customers the **real cost difference**:
 
 **Impact**: Connects buyers with shops within walking distance, supporting 247+ local sellers.
 
-### 4. 🌐 **ONDC Protocol Integration**
+### 4.  **ONDC Protocol Integration**
 - Automatic listing on 200+ ONDC-compatible apps
 - Standardized product catalog
 - Interoperable payment systems
@@ -69,7 +69,7 @@ Unlike traditional platforms, we show customers the **real cost difference**:
 
 **Impact**: Small shops gain access to national digital infrastructure without technical expertise.
 
-### 5. 💰 **Dual Delivery Model**
+### 5.  **Dual Delivery Model**
 **Option A - Visit Store & Save**:
 - Extra 5% discount at counter
 - See, touch, feel before buying
@@ -85,7 +85,7 @@ Unlike traditional platforms, we show customers the **real cost difference**:
 
 **Impact**: Customers choose based on urgency, shops benefit from both models.
 
-### 6. 📊 **Seller Dashboard**
+### 6.  **Seller Dashboard**
 - Real-time revenue tracking
 - ONDC sync with one click
 - Inventory management
@@ -94,7 +94,7 @@ Unlike traditional platforms, we show customers the **real cost difference**:
 
 **Impact**: Empowers sellers with enterprise-grade tools, previously available only to large retailers.
 
-### 7. 🎁 **Smart Incentive System**
+### 7.  **Smart Incentive System**
 - **Flash Deals**: Limited-time offers (30% off)
 - **Loyalty Points**: Earn on every purchase (2x for store visits)
 - **Visit Rewards**: Extra discounts for in-person shopping
@@ -102,7 +102,7 @@ Unlike traditional platforms, we show customers the **real cost difference**:
 
 **Impact**: Drives foot traffic to local stores while maintaining online convenience.
 
-### 8. 🔍 **Advanced Product Discovery**
+### 8.  **Advanced Product Discovery**
 - Voice search in English & Hindi
 - Smart suggestions
 - Category filters (6 types: Grocery, Pharmacy, Electronics, Clothing, Restaurant, Hardware)
@@ -112,7 +112,7 @@ Unlike traditional platforms, we show customers the **real cost difference**:
 
 **Impact**: Makes local shopping as convenient as major platforms.
 
-### 9. 🌍 **Multi-Language Support**
+### 9.  **Multi-Language Support**
 - English & Hindi interface
 - One-click language toggle
 - Localized content
@@ -120,7 +120,7 @@ Unlike traditional platforms, we show customers the **real cost difference**:
 
 **Impact**: Breaks language barriers, serving 500M+ Hindi speakers.
 
-### 10. 📱 **Progressive Web App (PWA)**
+### 10.  **Progressive Web App (PWA)**
 - Install on any device
 - Works offline
 - Push notifications
@@ -131,23 +131,23 @@ Unlike traditional platforms, we show customers the **real cost difference**:
 
 ---
 
-## 🚀 How It Transforms India
+##  How It Transforms India
 
-### 💼 For Local Sellers
+###  For Local Sellers
 - **Digital Presence**: Get discovered by 1,834+ active buyers
 - **Zero Commission**: Keep 100% of store visit sales
 - **ONDC Access**: Reach 200+ apps instantly
 - **Fair Competition**: Compete with transparent pricing
 - **Growth Tools**: Analytics, inventory management, customer insights
 
-### 🛍️ For Buyers
+###  For Buyers
 - **Better Prices**: Save ₹50+ per transaction
 - **Faster Service**: 15-min pickup vs 45-min delivery
 - **Quality Assurance**: See products before buying
 - **Community Impact**: Support neighborhood economy
 - **Convenience**: Choose between visit or delivery
 
-### 🌱 For India
+###  For India
 - **Economic Impact**: ₹5.2 lakhs local revenue generated
 - **Job Creation**: Supporting 247 sellers + delivery partners
 - **Carbon Reduction**: 2.8 km saved per order
@@ -156,7 +156,7 @@ Unlike traditional platforms, we show customers the **real cost difference**:
 
 ---
 
-## 📊 Prototype Demonstration
+##  Prototype Demonstration
 
 This is a **fully functional prototype** with:
 
@@ -171,7 +171,7 @@ This is a **fully functional prototype** with:
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 ### Frontend
 - **HTML5, CSS3, JavaScript** - Pure vanilla, no framework bloat
@@ -192,7 +192,7 @@ This is a **fully functional prototype** with:
 
 ---
 
-## 🎨 Key Differentiators
+##  Key Differentiators
 
 ### vs. Quick Commerce Platforms
 | Feature | BharatBazaar | Others |
@@ -215,7 +215,7 @@ This is a **fully functional prototype** with:
 
 ---
 
-## 🎯 Target Market
+##  Target Market
 
 ### Primary Users
 - **Urban India**: Tier 1 & 2 cities (50M+ households)
@@ -232,7 +232,7 @@ This is a **fully functional prototype** with:
 
 ---
 
-## 📱 User Journey
+##  User Journey
 
 ### For Buyers
 1. **Discover** → Open app, see nearby shops on map
@@ -250,7 +250,7 @@ This is a **fully functional prototype** with:
 
 ---
 
-## 🚀 Market Potential
+##  Market Potential
 
 - **Target**: 12 million kirana stores in India
 - **Market Size**: ₹50,000 crore opportunity
@@ -259,15 +259,15 @@ This is a **fully functional prototype** with:
 
 ---
 
-## 🔮 Roadmap
+##  Roadmap
 
 ### Current (Prototype)
-- ✅ Core marketplace functionality
-- ✅ ONDC integration framework
-- ✅ Interactive maps
-- ✅ Dual delivery model
-- ✅ Price comparison
-- ✅ Seller dashboard
+-  Core marketplace functionality
+-  ONDC integration framework
+-  Interactive maps
+-  Dual delivery model
+-  Price comparison
+-  Seller dashboard
 
 ### Next Phase
 - Real seller onboarding
@@ -278,7 +278,7 @@ This is a **fully functional prototype** with:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome contributions from the community! Here's how you can help:
 
@@ -302,13 +302,13 @@ We welcome contributions from the community! Here's how you can help:
 
 ---
 
-## 📄 License
+##  License
 
 This project is proprietary software. See [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **ONDC Team** - For building open digital commerce infrastructure
 - **LatLong API** - For accurate distance calculations
@@ -317,10 +317,10 @@ This project is proprietary software. See [LICENSE](LICENSE) file for details.
 
 ---
 
-## 📞 Contact
+##  Contact
 
-- **GitHub**: [Repository](https://github.com/yourusername/bharatbazaar)
-- **Email**: support@bharatbazaar.in
+- **GitHub**: [Repository](https://github.com/Srusti-26/bharathbazaar-oss)
+- **Email**: 1nt23ad052.srusti@nmit.ac.in
 
 ---
 
@@ -334,7 +334,7 @@ This project is proprietary software. See [LICENSE](LICENSE) file for details.
 
 *Empowering 12 million local shops, one transaction at a time*
 
-[🌐 Website](https://bharatbazaar.in) • [📱 Download App](https://bharatbazaar.in/app) • [🏪 Register Shop](https://bharatbazaar.in/register) • [📧 Contact](mailto:support@bharatbazaar.in)
+[🌐 Website](https://bharatbazaar.in) • [📱 Download App](https://bharatbazaar.in/app) • [🏪 Register Shop](https://bharatbazaar.in/register) • [📧 Contact](mailto:1nt23ad052.srusti@nmit.ac.in)
 
 ---
 
